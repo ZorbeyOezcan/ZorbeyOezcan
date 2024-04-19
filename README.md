@@ -31,7 +31,8 @@ B.A. in Sociology of Technical Sciences
 
 **My Interests:**  
 
-- Exploring societal dynamics and change, particularly in the areas of digitization of work, changes in welfare policies, and financialization of markets.  
+- Exploring societal dynamics and change, particularly in the areas of digitization of work, changes in welfare policies, and financialization of markets.
+- The discourse about emerging methods of social data sciences such as generating data sets by web scraping and machine learning based approaches like topic modelings. 
 - Engaging with social data sciences, computational sociology, and critical computer sciences.  
 - Conducting empirical research using mixed methods to combine insights of large quantitative datasets, qualitative approaches, and social data science methods such as topic modeling.
   This approach helps us to understand social dynamics and the acceptance and diffusion of innovative technologies using insights from diffrent methodological frameworks. 
