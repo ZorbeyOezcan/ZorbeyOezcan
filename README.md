@@ -45,9 +45,11 @@ B.A. in Sociology of Technical Sciences
 
 **On My GitHub Page, You Can Find Personal Projects and Results of my Research, including:**  
 
-- A scraped dataset of all members of the German parliament.
 - Visualizations and analysis of my own Apple Health data.
+  
 - Future project: A scraped dataset of annual financial statements from all DAX40 (formerly DAX30) member companies from 2008 to 2023, analyzing prevalent topics in the recent German economy through topic modeling.
+  
+- Future project: A scraped dataset of all members of the German parliament.
 - Many more projects to come...
 
   
