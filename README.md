@@ -9,7 +9,8 @@ B.A. in Sociology of Technical Sciences
 
 **How to Reach Me:**  
 - **LinkedIn**: (prefered)
-- **Work Email**: zorbey.oezcan.business@gmail.com  
+- **Email**: zorbey.oezcan.business@gmail.com
+- **DataCamp**: datacamp.com/portfolio/zorbeyyy
 
 **My Prior Work Experience:**  
 
