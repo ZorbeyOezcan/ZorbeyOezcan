@@ -8,7 +8,7 @@ Pronouns: He/Him
 B.A. in Sociology of Technical Sciences  
 
 **How to Reach Me:**  
-- **LinkedIn**: (prefered)
+- **LinkedIn**: [Zorbey Özcan]([https://www.datacamp.com/portfolio/zorbeyyy](https://www.linkedin.com/in/zorbey-özcan-478011240/))
 - **Email**: zorbey.oezcan.business@gmail.com
 - **DataCamp**: [My DataCamp Portfolio](https://www.datacamp.com/portfolio/zorbeyyy)
 
