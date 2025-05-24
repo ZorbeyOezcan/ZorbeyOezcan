@@ -14,21 +14,30 @@ B.A. in Sociology of Technical Sciences
 
 **My Prior Work Experience:**  
 
-- **Student Employee at Datenbankgesellschaft mbH**  
-  November 2021 - December 2022  
-  [Datenbankgesellschaft mbH](https://www.datenbankgesellschaft.de)
+- **Data Analyst working student at Cosmonauts and Kings**
+  December 2024 - present 
 
-- **Student Assistant at TUB, Chair of Marketing**  
-  April 2022 - September 2023  
-  [TUB Chair of Marketing](https://www.tu.berlin/en/marketing)
+- **Data Analyst intern at Cosmonauts and Kings**
+  June 2024 - December 2024
+  
+- **Student Assistant at TUB, DFG Funded Project "SoCoRob - The Social Construction of Human-Robot Co-Work by Means of Prototype Work Settings"**  
+  September 2023 - September 2024
+  [SoCoRob 2](https://digitalisierung-der-arbeitswelten.de/2868)
 
 - **Student Assistant at TUB, DFG Funded Project "Comparative Institutional Analysis and Gigwork-Platforms"**  
   April 2023 - March 2024  
   [Gigwork Platforms](https://digitalisierung-der-arbeitswelten.de/gigwork-platforms)
 
-- **Student Assistant at TUB, DFG Funded Project "SoCoRob - The Social Construction of Human-Robot Co-Work by Means of Prototype Work Settings"**  
-  September 2023 - Present  
-  [SoCoRob 2](https://digitalisierung-der-arbeitswelten.de/2868)
+- **Student Assistant at TUB, Chair of Marketing**  
+  April 2022 - September 2023  
+  [TUB Chair of Marketing](https://www.tu.berlin/en/marketing)
+
+- **Student Employee at Datenbankgesellschaft mbH**  
+  November 2021 - December 2022  
+  [Datenbankgesellschaft mbH](https://www.datenbankgesellschaft.de)
+
+
+
 
 **My Interests:**  
 
