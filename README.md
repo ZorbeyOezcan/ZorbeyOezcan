@@ -40,7 +40,8 @@ B.A. in Sociology of Technical Sciences
 
 
 **My Interests:**  
-
+- Solving advanced classification problems.
+- Data gathering on a large scale. 
 - Exploring societal dynamics and change, particularly in the areas of digitization of work, changes in welfare policies, and financialization of markets.
 - The discourse about emerging methods of social data sciences such as generating data sets by web scraping and machine learning based approaches like topic modelings. 
 - Engaging with social data sciences, computational sociology, and critical computer sciences.  
@@ -49,14 +50,16 @@ B.A. in Sociology of Technical Sciences
 
 **I Am Currently Learning:**  
 
-- Advanced data visualization
+- Data gathering on a large scale using advanced scraping techniques. 
 - Advanced quantitative analysis techniques.  
 - Expanding my proficiency in R, Python, C, and LaTeX.
 
 **On My GitHub Page, You Can Find Personal Projects and Results of my Research, including:**  
 
 - Visualizations and analysis of my own Apple Health data.
-  
+
+- Future project: A scraped dataset of news articles containing articles during the german Bundestag election of 2025.
+
 - Future project: A scraped dataset of annual financial statements from all DAX40 (formerly DAX30) member companies from 2008 to 2023, analyzing prevalent topics in the recent German economy through topic modeling.
   
 - Future project: A scraped dataset of all members of the German parliament.
