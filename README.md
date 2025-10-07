@@ -11,7 +11,7 @@ B.A. in Sociology of Technical Sciences
 - **LinkedIn**: [Zorbey Özcan](https://www.linkedin.com/in/zorbey-özcan-478011240/)
 - **Email**: zorbey.oezcan.business@gmail.com
 - **DataCamp**: [My DataCamp Portfolio](https://www.datacamp.com/portfolio/zorbeyyy)
-- **Shiny**: [My DataCamp Portfolio](https://zorbey-oezcan-portfolio.shinyapps.io/news_data_germany/)
+- **Shiny**: [My Shiny Visualization of news articles I scraped](https://zorbey-oezcan-portfolio.shinyapps.io/news_data_germany/)
 
 **My Prior Work Experience:**  
 
