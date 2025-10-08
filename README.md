@@ -1,11 +1,11 @@
 @ZorbeyOezcan  
 
-**Zorbey Özcan**  
+**Zorbey oezcan**  
 
 Pronouns: He/Him  
 
 **Student at Technical University Berlin**  
-B.A. in Sociology of Technical Sciences  
+B.A. Sociology and Technology Studies 
 
 **How to Reach Me:**  
 - **LinkedIn**: [Zorbey Özcan](https://www.linkedin.com/in/zorbey-özcan-478011240/)
@@ -38,32 +38,24 @@ B.A. in Sociology of Technical Sciences
   [Datenbankgesellschaft mbH](https://www.datenbankgesellschaft.de)
 
 
-
-
 **My Interests:**  
-- Solving advanced classification problems.
-- Data gathering on a large scale. 
-- Exploring societal dynamics and change, particularly in the areas of digitization of work, changes in welfare policies, and financialization of markets.
-- The discourse about emerging methods of social data sciences such as generating data sets by web scraping and machine learning based approaches like topic modelings. 
-- Engaging with social data sciences, computational sociology, and critical computer sciences.  
-- Conducting empirical research using mixed methods to combine insights of large quantitative datasets, qualitative approaches, and social data science methods such as topic modeling.
-  This approach helps us to understand social dynamics and the acceptance and diffusion of innovative technologies using insights from diffrent methodological frameworks. 
+- Political Sciences
+- Web-Scraping on a large scale 
+- Political Text Classification
+- BERT NLI
+- Interactive Visualisations 
 
 **I Am Currently Learning:**  
 
-- Data gathering on a large scale using advanced scraping techniques. 
-- Advanced quantitative analysis techniques.  
-- Expanding my proficiency in R, Python, C, and LaTeX.
+- Fine-tuning BERT-based Models
+- Setting up my own models with PyTorch 
 
 **On My GitHub Page, You Can Find Personal Projects and Results of my Research, including:**  
 
+- A Modular Scraping Framework in R that Scrapes 44 Different German News Publishers. 
+- Code for creating a Hugging Face Dataset from my results.  
+- A Geo-Spatial Visualisation of that Dataset in Shiny. 
 - Visualizations and analysis of my own Apple Health data.
-
-- Future project: A scraped dataset of news articles containing articles during the german Bundestag election of 2025.
-
-- Future project: A scraped dataset of annual financial statements from all DAX40 (formerly DAX30) member companies from 2008 to 2023, analyzing prevalent topics in the recent German economy through topic modeling.
-  
-- Future project: A scraped dataset of all members of the German parliament.
 - Many more projects to come...
 
   
