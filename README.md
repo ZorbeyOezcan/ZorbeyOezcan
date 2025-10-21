@@ -15,7 +15,7 @@ B.A. Sociology and Technology Studies
 
 **My Prior Work Experience:**  
 
-- **Data Analyst working student at Cosmonauts and Kings**
+- **Data Scientist working student at Cosmonauts and Kings**
   December 2024 - present 
 
 - **Data Analyst intern at Cosmonauts and Kings**
