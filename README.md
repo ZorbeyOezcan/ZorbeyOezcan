@@ -4,8 +4,7 @@
 
 Pronouns: He/Him  
 
-**Student at Technical University Berlin**  
-B.A. Sociology and Technology Studies 
+** MPA candidate in Data Science for Public Policy at London School of Economics and Political Science** 
 
 **How to Reach Me:**  
 - **LinkedIn**: [Zorbey Özcan](https://www.linkedin.com/in/zorbey-özcan-478011240/)
@@ -16,7 +15,7 @@ B.A. Sociology and Technology Studies
 **My Prior Work Experience:**  
 
 - **Data Scientist working student at Cosmonauts and Kings**
-  December 2024 - present 
+  December 2024 - August 2026 
 
 - **Data Analyst intern at Cosmonauts and Kings**
   June 2024 - December 2024
